@@ -1,4 +1,4 @@
-# <img height="30vh" src="a.jpg"> WebCam project
+# <img height="50vh" src="a.jpg"> WebCam project
 This project is related to webcam.
 ## Installation
 *	Install WAMPP or nginx server
